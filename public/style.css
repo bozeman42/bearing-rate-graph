@@ -1,0 +1,7 @@
+canvas {
+  border: black 1px solid;
+}
+
+#field {
+  cursor: crosshair;
+}
